@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henok</h1>
-<h3 align="center">A passionate CyberSecurity entusiast</h3>
+<h3 align="center">A passionate CyberSecurity enthusiast</h3>
 
-- 🌱 I’m currently learning **HACKTHEBOX**
+- 🌱 I’m currently learning **HACKTHEBOX**,**Security+**
 
 - 📫 How to reach me **sahlu.henok@hotmail.com**
 
