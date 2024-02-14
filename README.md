@@ -8,7 +8,7 @@
 <h3 </h3>
 <p align="left">
 </p>
-<h2> Projects:</h2>
+<h2> Home Lab Projects:</h2>
   
 - <b>Honeypot in Azure Sentinel</b>
   - https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project
