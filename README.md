@@ -5,6 +5,7 @@
 <p align="left">
 </p>
 <h2>👨‍💻 Home Lab Projects:</h2>
+
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VM](https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs)  
 - <b>Honeypot in Azure Sentinel</b>
