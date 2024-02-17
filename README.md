@@ -10,8 +10,8 @@
   - [Configuring Active Directory within Azure VM](https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs)  
 - <b>Honeypot in Azure Sentinel</b>
   - [Azure Sentinel SEIM SOC Home Lab](https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project)
-- <b>Volnerability Management with OpenVAS</b>
-  - [Volnerability Management with OpenVAS](https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project)
+- <b>Vulnerability Management with OpenVAS</b>
+  - [Vulnerability Management with OpenVAS](https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project)
 - <b>Wireshark</b>
   - [Network/Transport Protocols on Wireshark](https://github.com/Hasnake84/Protocols-on-Wireshark)
 - <b>osTicket (Help Desk Ticketing System)</b>
