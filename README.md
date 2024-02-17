@@ -5,14 +5,14 @@
 <p align="left">
 </p>
 <h2>👨‍💻 Home Lab Projects:</h2>
-  
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VM](https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs)  
 - <b>Honeypot in Azure Sentinel</b>
   - [Azure Sentinel SEIM SOC Home Lab](https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project)
 - <b>Volnerability Management with OpenVAS</b>
   - [Volnerability Management with OpenVAS](https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VM](https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
+- <b>Wireshark</b>>
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket Installation](https://github.com/Hasnake84/osTicket-installation/tree/main)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
