@@ -9,7 +9,7 @@
 - <b>Honeypot in Azure Sentinel</b>
   - [Azure Sentinel SEIM SOC Home Lab](https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project)
 - <b>Volnerability Management with OpenVAS</b>
-  - [Volnerability Management with OpenVAS](https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project</b></i>)
+  - [Volnerability Management with OpenVAS](https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VM](https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
