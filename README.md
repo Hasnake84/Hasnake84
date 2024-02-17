@@ -11,7 +11,7 @@
 - <b>Volnerability Management with OpenVAS</b>
   - https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project</b></i>
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
+  - https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket Installation](https://github.com/Hasnake84/osTicket-installation/tree/main)
