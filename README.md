@@ -15,9 +15,9 @@
 - <b>Vulnerability Management with OpenVAS</b>
   - [Vulnerability Management with OpenVAS](https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project)
 - <b>Wireshark</b>
-  - [Network/Transport Protocols on Wireshark](https://github.com/Hasnake84/Protocols-on-Wireshark)
+  - [Analyze traffic on Wireshark](https://github.com/Hasnake84/Protocols-on-Wireshark)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket Installation/Ticket lifecycle](https://github.com/Hasnake84/osTicket-installation/tree/main)
+  - [osTicket Installation-Ticket lifecycle](https://github.com/Hasnake84/osTicket-installation/tree/main)
 
 
 
