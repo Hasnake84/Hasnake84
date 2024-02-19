@@ -10,14 +10,15 @@
   - [Configuring Active Directory within Azure VM](https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs)  
 - <b>Honeypot in Azure Sentinel</b>
   - [Azure Sentinel SEIM SOC Home Lab](https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project)
+- <b>Qualys VMDR
+  - [Qualys cloud Sensor Agent and Scanner Applliance Deployment and Scan reports](https://github.com/Hasnake84/Qualys-VMDR)
 - <b>Vulnerability Management with OpenVAS</b>
   - [Vulnerability Management with OpenVAS](https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project)
 - <b>Wireshark</b>
   - [Network/Transport Protocols on Wireshark](https://github.com/Hasnake84/Protocols-on-Wireshark)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket Installation](https://github.com/Hasnake84/osTicket-installation/tree/main)
+  - [osTicket Installation/Ticket lifecycle](https://github.com/Hasnake84/osTicket-installation/tree/main)
 
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
 
 
 
