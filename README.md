@@ -14,6 +14,8 @@
   - [Qualys Cloud Sensor Agent and Scanner Applliance Deployment and Scan reports](https://github.com/Hasnake84/Qualys-VMDR)
 - <b>Vulnerability Management with OpenVAS</b>
   - [Vulnerability Management with OpenVAS](https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project)
+- <b>AWS Serverless API call to Lambda</b>
+  - [AWS Serverless API call to Lambda](https://github.com/Hasnake84/AWS-Serverless-Lambda)
 - <b>Wireshark</b>
   - [Analyze traffic on Wireshark](https://github.com/Hasnake84/Protocols-on-Wireshark)
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -29,7 +31,7 @@
 
 
 
-  🌱 I’m currently learning **HACKTHEBOX**, **Security+**
+  🌱 I’m currently learning **HACKTHEBOX**
 
   📫 How to reach me **sahlu.henok@hotmail.com**
 
