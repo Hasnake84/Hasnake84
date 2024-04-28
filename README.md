@@ -10,6 +10,8 @@
   - [Configuring Active Directory within Azure VM](https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs)  
 - <b>Honeypot in Azure Sentinel</b>
   - [Azure Sentinel SEIM SOC Home Lab](https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project)
+- <b>Vulnerability Management with Tenable Nessus on Metasploitable
+  - [Tenable Nessus with Metasploitable](https://github.com/Hasnake84/Tenable-Nessus-Metasploitable)
 - <b>Qualys VMDR</b>
   - [Qualys Cloud Sensor Agent and Scanner Applliance Deployment and Scan reports](https://github.com/Hasnake84/Qualys-VMDR)
 - <b>Vulnerability Management with OpenVAS</b>
