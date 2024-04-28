@@ -23,7 +23,7 @@
 - <b>AWS Serverless API call to Lambda</b>
   - [AWS Serverless API call to Lambda](https://github.com/Hasnake84/AWS-Serverless-Lambda)
 - <b>Wireshark</b>
-  - [Analyze traffic on Wireshark](https://github.com/Hasnake84/Protocols-on-Wireshark)
+  - [Analyze network traffic on Wireshark](https://github.com/Hasnake84/Protocols-on-Wireshark)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket Installation-Ticket lifecycle](https://github.com/Hasnake84/osTicket-installation/tree/main)
 
