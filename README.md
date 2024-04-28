@@ -6,11 +6,13 @@
 </p>
 <h2>👨‍💻 Home Lab Projects:</h2>
 
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VM](https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs)  
+- <b>Active Diretory</b>
+  - [Configuring Active Directory within Azure VM](https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs)
+- <b>Installing and configuring System Monitor(Sysmon) on Windows</b>
+  - [Sysmon installation and config](https://github.com/Hasnake84/Sysmon-Installation-with-Sysmon-config-file)
 - <b>Honeypot in Azure Sentinel</b>
   - [Azure Sentinel SEIM SOC Home Lab](https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project)
-- <b>Vulnerability Management with Tenable Nessus on Metasploitable
+- <b>Vulnerability Management with Tenable Nessus on Metasploitable</b>
   - [Tenable Nessus with Metasploitable](https://github.com/Hasnake84/Tenable-Nessus-Metasploitable)
 - <b>Qualys VMDR</b>
   - [Qualys Cloud Sensor Agent and Scanner Applliance Deployment and Scan reports](https://github.com/Hasnake84/Qualys-VMDR)
