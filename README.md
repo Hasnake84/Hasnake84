@@ -16,7 +16,7 @@
   - [Devsecops project on AWS pipeline](https://github.com/Hasnake84/AWS-CodeCommit-build-Pipeline)
 - <b>Vulnerability Management with Tenable Nessus on Metasploitable</b>
   - [Tenable Nessus with Metasploitable](https://github.com/Hasnake84/Tenable-Nessus-Metasploitable)
-- <b>Qualys VMDR</b>
+- <b>Qualys Vulnerability Management Detection and Response</b>
   - [Qualys Cloud Sensor Agent and Scanner Applliance Deployment and Scan reports](https://github.com/Hasnake84/Qualys-VMDR)
 - <b>Vulnerability Management with OpenVAS</b>
   - [Vulnerability Management with OpenVAS](https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project)
