@@ -7,7 +7,7 @@
 <h2>👨‍💻 Home Lab Projects:</h2>
   
 - <b>python script for password manager and generator</b>
-  - [Passwword manager and generator](https://github.com/Hasnake84/python-script-password-manager-generator)
+  - [Password manager and generator](https://github.com/Hasnake84/python-script-password-manager-generator)
 - <b>Active Diretory</b>
   - [Configuring Active Directory within Azure VM](https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs)
 - <b>Installing and configuring System Monitor(Sysmon) on Windows</b>
