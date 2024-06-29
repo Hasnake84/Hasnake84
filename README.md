@@ -5,9 +5,11 @@
 <p align="left">
 </p>
 <h2>👨‍💻 Home Lab Projects:</h2>
-  
+
+- <b>Microsoft Azure and ElasticSearch Integration</b>  
+  - [ElasticSearch log injestion on Microsoft Azure](https://github.com/Hasnake84/Azure-ElasticSearch-Integration)
 - <b>python script for password manager and generator</b>
-  - [Password manager and generator](https://github.com/Hasnake84/python-script-password-manager-generator)
+  - [Password and generator](https://github.com/Hasnake84/python-script-password-manager-generator)
 - <b>Active Diretory</b>
   - [Configuring Active Directory within Azure VM](https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs)
 - <b>Installing and configuring System Monitor(Sysmon) on Windows</b>
