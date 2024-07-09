@@ -6,6 +6,8 @@
 </p>
 <h2>👨‍💻 Home Lab Projects:</h2>
 
+- <b>FortiNet Next-Gen Firewall with Azure Bastion</b>
+  - [NGFW on Azure cloud](https://github.com/Hasnake84/NGFW-Azure-Bastion)
 - <b>Microsoft Azure and ElasticSearch Integration</b>  
   - [ElasticSearch log injestion on Microsoft Azure](https://github.com/Hasnake84/Azure-ElasticSearch-Integration)
 - <b>python script for password manager and generator</b>
