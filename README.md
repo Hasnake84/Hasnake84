@@ -37,10 +37,9 @@
 
 
 
-  🌱 I’m currently learning **HACKTHEBOX**
+ 
 
-  📫 How to reach me **sahlu.henok@hotmail.com**
-
+  
 
 
 
