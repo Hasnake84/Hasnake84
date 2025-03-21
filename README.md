@@ -17,7 +17,7 @@
   - **[Implementing SOC 'Honeypot' on Azure Sentinel for live attack traffic and remediation](https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project)**
   - **[Qualys Cloud Sensor Agent and Scanner Applliance Deployment and Scan reports](https://github.com/Hasnake84/Qualys-VMDR)**
   - **[Vulnerability Management with OpenVAS](https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project)**
-### Cyber Purple Team
+### 🟣 Cyber Purple Team
   - **[Tenable Nessus with Metasploitable](https://github.com/Hasnake84/Tenable-Nessus-Metasploitable)**
   - **[AWS Serverless API call to Lambda](https://github.com/Hasnake84/AWS-Serverless-Lambda)**
   - **[Analyze network traffic on Wireshark](https://github.com/Hasnake84/Protocols-on-Wireshark)**
