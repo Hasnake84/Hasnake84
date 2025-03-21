@@ -10,20 +10,13 @@
 <h2>👨‍💻 Home Lab Projects:</h2>
 
 ### 🔵 Cyber Blue Team (Defensive Security):
-- <b>FortiNet Next-Gen Firewall with Azure Bastion</b>
-  - [NGFW on Azure cloud](https://github.com/Hasnake84/NGFW-Azure-Bastion)
-- <b>Microsoft Azure and ElasticSearch Integration</b>  
-  - [ElasticSearch log injestion on Microsoft Azure](https://github.com/Hasnake84/Azure-ElasticSearch-Integration)
-- <b>Active Diretory</b>
-  - [Configuring Active Directory within Azure VM](https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs)
-- <b>Installing and configuring System Monitor(Sysmon) on Windows</b>
-  - [Sysmon installation and config](https://github.com/Hasnake84/Sysmon-Installation-with-Sysmon-config-file)
-- <b>Deployed 'Honeypot' on Azure Sentinel for live attack traffic</b>
-  - [Azure Sentinel SEIM SOC Home Lab](https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project)
-- <b>Qualys Vulnerability Management Detection and Response</b>
-  - [Qualys Cloud Sensor Agent and Scanner Applliance Deployment and Scan reports](https://github.com/Hasnake84/Qualys-VMDR)
-- <b>Vulnerability Management with OpenVAS</b>
-  - [Vulnerability Management with OpenVAS](https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project)
+  - **[FortiNet Next-Gen Firewall with Azure Bastion](https://github.com/Hasnake84/NGFW-Azure-Bastion)**
+  - **[Microsoft Azure and ElasticSearch Integration log injestion](https://github.com/Hasnake84/Azure-ElasticSearch-Integration)**
+  - **[Configuring Active Directory within Azure VM](https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs)**
+  - **[Sysmon installation and config](https://github.com/Hasnake84/Sysmon-Installation-with-Sysmon-config-file)**
+  - **[Deployed 'Honeypot' on Azure Sentinel for live attack traffic](https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project)**
+  - **[Qualys Cloud Sensor Agent and Scanner Applliance Deployment and Scan reports](https://github.com/Hasnake84/Qualys-VMDR)**
+  - **[Vulnerability Management with OpenVAS](https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project)**
 ### Cyber Purple Team
 - <b>Vulnerability Management with Tenable Nessus on Metasploitable</b>
   - [Tenable Nessus with Metasploitable](https://github.com/Hasnake84/Tenable-Nessus-Metasploitable)
