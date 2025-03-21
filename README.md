@@ -19,11 +19,9 @@
   - **[Vulnerability Management with OpenVAS](https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project)**
 ### Cyber Purple Team
   - **[Tenable Nessus with Metasploitable](https://github.com/Hasnake84/Tenable-Nessus-Metasploitable)**
-
   - **[AWS Serverless API call to Lambda](https://github.com/Hasnake84/AWS-Serverless-Lambda)**
   - **[Analyze network traffic on Wireshark](https://github.com/Hasnake84/Protocols-on-Wireshark)**
   - **[osTicket Installation-Ticket lifecycle](https://github.com/Hasnake84/osTicket-installation/tree/main)**
-
   - **[Password manager and generator with python](https://github.com/Hasnake84/python-script-password-manager-generator)**
   - **[Devsecops on AWS pipeline](https://github.com/Hasnake84/AWS-CodeCommit-build-Pipeline)**
 
