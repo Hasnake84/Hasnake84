@@ -6,7 +6,7 @@
 <h3 </h3>
 <p align="left">
 </p>
-🔍 Passionate about solving complex cybersecurity challenges with hands-on experience in SIEM implementations, vulnerability management, and threat detection. My project portfolio highlights tangible security improvements.
+Passionate about solving complex cybersecurity challenges with hands-on experience in SIEM implementations, vulnerability management, and threat detection. My project portfolio highlights tangible security improvements.
 <h2>👨‍💻 Home Lab Projects:</h2>
 
 ### 🔵 Cyber Blue Team (Defensive Security):
