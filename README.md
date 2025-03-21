@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Henok</h1>
-<h3 align="center">IT Professional</h3>
-
+<h3 align="center">Cybersecurity Professional</h3>
+<div align="center">
+    <a href="https://www.linkedin.com/henok_asnake"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 <h3 </h3>
 <p align="left">
 </p>
+🔍 Passionate about solving complex cybersecurity challenges with hands-on experience in SIEM implementations, vulnerability management, and threat detection. My project portfolio highlights tangible security improvements.
 <h2>👨‍💻 Home Lab Projects:</h2>
 
 - <b>FortiNet Next-Gen Firewall with Azure Bastion</b>
