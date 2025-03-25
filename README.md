@@ -10,6 +10,7 @@ Passionate about solving complex cybersecurity challenges with hands-on experien
 <h2>👨‍💻 Home Lab Projects:</h2>
 
 ### 🔵 Cyber Blue Team (Defensive Security):
+  - **[Incident Response: Suspicious File Detected](https://github.com/Hasnake84/Malicious-File-Detetcted)**
   - **[FortiNet Next-Gen Firewall with Azure Bastion](https://github.com/Hasnake84/NGFW-Azure-Bastion)**
   - **[Microsoft Azure and ElasticSearch Integration log injestion](https://github.com/Hasnake84/Azure-ElasticSearch-Integration)**
   - **[Configuring Active Directory within Azure VM](https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs)**
