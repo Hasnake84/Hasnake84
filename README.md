@@ -10,12 +10,13 @@ Passionate about solving complex cybersecurity challenges with hands-on experien
 <h2>👨‍💻 Home Lab Projects:</h2>
 
 ### 🔵 Cyber Blue Team (Defensive Security):
+  - **[Implementing SOC 'Honeypot' on Azure Sentinel for live attack traffic and remediation](https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project)**
   - **[Incident Response: Suspicious File Detected](https://github.com/Hasnake84/Malicious-File-Detetcted)**
   - **[FortiNet Next-Gen Firewall with Azure Bastion](https://github.com/Hasnake84/NGFW-Azure-Bastion)**
   - **[Microsoft Azure and ElasticSearch Integration log injestion](https://github.com/Hasnake84/Azure-ElasticSearch-Integration)**
   - **[Configuring Active Directory within Azure VM](https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs)**
   - **[Sysmon installation and config](https://github.com/Hasnake84/Sysmon-Installation-with-Sysmon-config-file)**
-  - **[Implementing SOC 'Honeypot' on Azure Sentinel for live attack traffic and remediation](https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project)**
+ 
   - **[Qualys Cloud Sensor Agent and Scanner Applliance Deployment and Scan reports](https://github.com/Hasnake84/Qualys-VMDR)**
   - **[Vulnerability Management with OpenVAS](https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project)**
 ### 🟣 Cyber Purple Team
