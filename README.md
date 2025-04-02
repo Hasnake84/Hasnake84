@@ -13,6 +13,7 @@ Passionate about solving complex cybersecurity challenges with hands-on experien
   - **[Implementing SOC 'Honeypot' on Azure Sentinel for live attack traffic and remediation](https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project)**
   - **[Incident Response: Suspicious File Detected](https://github.com/Hasnake84/Malicious-File-Detetcted)**
   - **[Incident Response: TOR Browser Usage](https://github.com/Hasnake84/Threat-Hunting-Scenario)**
+  - **[Incident Response: Sudden Network Slowdown]https://github.com/Hasnake84/Sudden-Network-Slowdown**
   - **[FortiNet Next-Gen Firewall with Azure Bastion](https://github.com/Hasnake84/NGFW-Azure-Bastion)**
   - **[Microsoft Azure and ElasticSearch Integration log injestion](https://github.com/Hasnake84/Azure-ElasticSearch-Integration)**
   - **[Configuring Active Directory within Azure VM](https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs)**
