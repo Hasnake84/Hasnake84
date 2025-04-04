@@ -11,6 +11,7 @@ Passionate about solving complex cybersecurity challenges with hands-on experien
 
 ### 🔵 Cyber Blue Team (Defensive Security):
   - **[Implementing SOC 'Honeypot' on Azure Sentinel for live attack traffic and remediation](https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project)**
+  - **[Incident Response: Brute Force Attempt Detected](https://github.com/Hasnake84/Brute-Force-Attempt-Detection/blob/main/README.md)**
   - **[Incident Response: Suspicious File Detected](https://github.com/Hasnake84/Malicious-File-Detetcted)**
   - **[Incident Response: TOR Browser Usage](https://github.com/Hasnake84/Threat-Hunting-Scenario)**
   - **[Incident Response: Sudden Network Slowdown](https://github.com/Hasnake84/Sudden-Network-Slowdown)**
