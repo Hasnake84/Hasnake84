@@ -14,7 +14,7 @@ Passionate about solving complex cybersecurity challenges with hands-on experien
   - **[Incident Response: Brute Force Attempt Detected](https://github.com/Hasnake84/Brute-Force-Attempt-Detection/blob/main/README.md)**
   - **[Incident Response: Suspicious File Detected](https://github.com/Hasnake84/Malicious-File-Detetcted)**
   - **[Incident Response: TOR Browser Usage](https://github.com/Hasnake84/Threat-Hunting-Scenario)**
-  - **[Incident Respons: Data Exfiltration from PIP'd Employee(https://github.com/Hasnake84/Data-Exfiltration)**
+  - **[Incident Respons: Data Exfiltration from PIP'd Employee](https://github.com/Hasnake84/Data-Exfiltration)**
   - **[Incident Response: Sudden Network Slowdown](https://github.com/Hasnake84/Sudden-Network-Slowdown)**
   - **[FortiNet Next-Gen Firewall with Azure Bastion](https://github.com/Hasnake84/NGFW-Azure-Bastion)**
   - **[Microsoft Azure and ElasticSearch Integration log injestion](https://github.com/Hasnake84/Azure-ElasticSearch-Integration)**
