@@ -29,7 +29,7 @@ Passionate about solving complex cybersecurity challenges with hands-on experien
   - **[Burp-suite web application security testing](https://github.com/Hasnake84/Burp-Suite)**
   - **[Analyze network traffic on Wireshark](https://github.com/Hasnake84/Protocols-on-Wireshark)**
   - **[Password manager and generator with python](https://github.com/Hasnake84/python-script-password-manager-generator)**
- ### DevSecOps
+ ### 🔧🔐⚙️ DevSecOps
   - **[Devsecops on AWS pipeline](https://github.com/Hasnake84/AWS-CodeCommit-build-Pipeline)**
   - **[AWS Serverless API call to Lambda](https://github.com/Hasnake84/AWS-Serverless-Lambda)**
 
