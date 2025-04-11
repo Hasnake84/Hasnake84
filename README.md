@@ -9,8 +9,9 @@
 Passionate about solving complex cybersecurity challenges with hands-on experience in SIEM implementations, EDR/XDR investigations, query logs, vulnerability management, and threat detection. My project portfolio highlights tangible security improvements.
 <h2>👨‍💻 Home Lab Projects:</h2>
 
-### 🔵 Cyber Blue Team (Defensive Security):
+### 🔵 Blue Team (Defensive Security):
   - **[Implementing SOC 'Honeypot' on Azure Sentinel for live attack traffic and remediation](https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project)**
+  - **[Incident Response: Detect and investigate impossible travel alert](https://github.com/Hasnake84/Detect-and-Investigate-Impossible-Travel)**
   - **[Incident Response: Brute Force Attempt Detected](https://github.com/Hasnake84/Brute-Force-Attempt-Detection)**
   - **[Incident Response: Suspicious File Detected](https://github.com/Hasnake84/Malicious-File-Detetcted)**
   - **[Incident Response: TOR Browser Usage](https://github.com/Hasnake84/Threat-Hunting-Scenario)**
@@ -22,7 +23,7 @@ Passionate about solving complex cybersecurity challenges with hands-on experien
   - **[Sysmon installation and config](https://github.com/Hasnake84/Sysmon-Installation-with-Sysmon-config-file)**
   - **[Qualys Cloud Sensor Agent and Scanner Applliance Deployment and Scan reports](https://github.com/Hasnake84/Qualys-VMDR)**
   - **[Vulnerability Management with OpenVAS](https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project)**
-### 🟣 Cyber Purple Team
+### 🟣 Purple Team
   - **[Tenable Nessus with Metasploitable](https://github.com/Hasnake84/Tenable-Nessus-Metasploitable)**
   - **[Analyze network traffic on Wireshark](https://github.com/Hasnake84/Protocols-on-Wireshark)**
   - **[osTicket Installation-Ticket lifecycle](https://github.com/Hasnake84/osTicket-installation/tree/main)**
