@@ -18,7 +18,7 @@ Passionate about solving complex cybersecurity challenges with hands-on experien
   - **[Incident Respons: Data Exfiltration from PIP'd Employee](https://github.com/Hasnake84/Data-Exfiltration)**
   - **[Incident Response: Sudden Network Slowdown](https://github.com/Hasnake84/Sudden-Network-Slowdown)**
   - **[FortiNet Next-Gen Firewall with Azure Bastion](https://github.com/Hasnake84/NGFW-Azure-Bastion)**
-  - **[Microsoft Azure and ElasticSearch Integration log injestion(Home-lab)](https://github.com/Hasnake84/Azure-ElasticSearch-Integration)**
+  - **[Microsoft Azure and ElasticSearch Integration log injestion (Home-lab)](https://github.com/Hasnake84/Azure-ElasticSearch-Integration)**
   - **[Configuring Active Directory within Azure VM](https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs)**
   - **[Sysmon installation and config](https://github.com/Hasnake84/Sysmon-Installation-with-Sysmon-config-file)**
   - **[Qualys Cloud Sensor Agent and Scanner Applliance Deployment and Scan reports](https://github.com/Hasnake84/Qualys-VMDR)**
@@ -26,6 +26,7 @@ Passionate about solving complex cybersecurity challenges with hands-on experien
   -  **[osTicket Installation-Ticket lifecycle](https://github.com/Hasnake84/osTicket-installation/tree/main)**
 ### 🟣 Purple Team
   - **[Tenable Nessus with Metasploitable](https://github.com/Hasnake84/Tenable-Nessus-Metasploitable)**
+  - **[Burp-suite web application security testing](https://github.com/Hasnake84/Burp-Suite)**
   - **[Analyze network traffic on Wireshark](https://github.com/Hasnake84/Protocols-on-Wireshark)**
   - **[Password manager and generator with python](https://github.com/Hasnake84/python-script-password-manager-generator)**
  ### DevSecOps
