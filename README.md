@@ -6,11 +6,9 @@
 <h3 </h3>
 </p>
 <p align="left">
-I'm driven by curiosity and committed to securing systems through real-world simulations, detection engineering, and incident response. I specialize in cloud security with a hands-on approach to continuous learning. Passionate about solving complex cybersecurity challenges with hands-on experience in SIEM implementations, EDR/XDR investigations, query logs, vulnerability management, and threat detection. My project portfolio highlights tangible security improvements.
+Cybersecurity practitioner with a passion for proactive defense and continuous learning. I specialize in cloud security, SIEM engineering, and real-world incident response. My work spans threat detection, EDR/XDR investigations, log analysis (including PowerShell, LOLBins, and fileless malware), and vulnerability management. I turn curiosity into action through hands-on labs and detection-driven projects that deliver measurable security value.
 </p>
-
 <h2>👨‍💻 Home Lab Projects:</h2>
-
 ### 🔵 Blue Team (Home Lab):
   - **[Implementing SOC 'Honeypot' on Azure Sentinel for live attack traffic and remediation](https://github.com/Hasnake84/SIEM-Sentinel-SOC-Lab-Project)**
   - **[FortiNet Next-Gen Firewall with Azure Bastion](https://github.com/Hasnake84/NGFW-Azure-Bastion)**
