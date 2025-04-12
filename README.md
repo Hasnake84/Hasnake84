@@ -20,8 +20,8 @@ Cybersecurity practitioner with a passion for proactive defense and continuous l
   - **[Qualys Cloud Sensor Agent and Scanner Applliance Deployment and Scan reports](https://github.com/Hasnake84/Qualys-VMDR)**
   - **[Vulnerability Management with OpenVAS](https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project)**
   -  **[osTicket Installation-Ticket lifecycle](https://github.com/Hasnake84/osTicket-installation/tree/main)**
-### 🔍 Incident Response:
-  - **[Detect and investigate impossible travel alert](https://github.com/Hasnake84/Detect-and-Investigate-Impossible-Travel)**
+### 🔍 Incident Response: Microsoft Sentinel and Defener for Endpoint
+  - **[Detect and Investigate Impossible Travel Alert](https://github.com/Hasnake84/Detect-and-Investigate-Impossible-Travel)**
   - **[Brute Force Attempt Detected](https://github.com/Hasnake84/Brute-Force-Attempt-Detection)**
   - **[Suspicious File Detected](https://github.com/Hasnake84/Malicious-File-Detetcted)**
   - **[TOR Browser Usage](https://github.com/Hasnake84/Threat-Hunting-Scenario)**
