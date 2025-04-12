@@ -25,6 +25,7 @@
   - **[TOR Browser Usage](https://github.com/Hasnake84/Threat-Hunting-Scenario)**
   - **[Data Exfiltration from PIP'd Employee](https://github.com/Hasnake84/Data-Exfiltration)**
   - **[Sudden Network Slowdown](https://github.com/Hasnake84/Sudden-Network-Slowdown)**
+  - **[Internet Exposed Device](https://github.com/Hasnake84/Internet-Exposed-Device)**
     
 ### 🟣 Purple Team:
   - **[Tenable Nessus with Metasploitable](https://github.com/Hasnake84/Tenable-Nessus-Metasploitable)**
