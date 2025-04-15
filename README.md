@@ -35,7 +35,6 @@
   - **[Web Application Vulnerability testing with Acunetix-Sqlmap-Nikto](https://github.com/Hasnake84/Acunetix-Sqlmap-Nikto)**
 
 ### 🟣 Purple Team:
-  - **[Tenable Nessus with Metasploitable](https://github.com/Hasnake84/Tenable-Nessus-Metasploitable)**
   - **[Burp-suite web application security testing](https://github.com/Hasnake84/Burp-Suite)**
   - **[Analyze network traffic on Wireshark](https://github.com/Hasnake84/Protocols-on-Wireshark)**
   - **[Password manager and generator with python](https://github.com/Hasnake84/python-script-password-manager-generator)**
