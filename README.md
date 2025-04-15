@@ -32,6 +32,8 @@
   - **[10 + STIGs Implementation and Remediations](https://github.com/Hasnake84/Programmatic-Vulnerability-Remediations)**
   - **[Tenable Nessus on Metasploitable](https://github.com/Hasnake84/Tenable-Nessus-Metasploitable/tree/main)**
   - **[Vulnerability Management with OpenVAS](https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project)**
+  - **[Web Application Vulnerability testing with Acunetix-Sqlmap-Nikto](https://github.com/Hasnake84/Acunetix-Sqlmap-Nikto)**
+
 ### 🟣 Purple Team:
   - **[Tenable Nessus with Metasploitable](https://github.com/Hasnake84/Tenable-Nessus-Metasploitable)**
   - **[Burp-suite web application security testing](https://github.com/Hasnake84/Burp-Suite)**
