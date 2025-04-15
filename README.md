@@ -14,7 +14,6 @@
   - **[Microsoft Azure and ElasticSearch Integration log injestion](https://github.com/Hasnake84/Azure-ElasticSearch-Integration)**
   - **[Configuring Active Directory within Azure VM](https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs)**
   - **[Sysmon installation and config](https://github.com/Hasnake84/Sysmon-Installation-with-Sysmon-config-file)**
-  - **[Qualys Cloud Sensor Agent and Scanner Applliance Deployment and Scan reports](https://github.com/Hasnake84/Qualys-VMDR)**
   - **[Azure and Elasticsearch Integration](https://github.com/Hasnake84/Azure-ElasticSearch-Integration)**
   -  **[osTicket Installation-Ticket lifecycle](https://github.com/Hasnake84/osTicket-installation/tree/main)**
 
@@ -28,7 +27,7 @@
   - **[Internet Exposed Device](https://github.com/Hasnake84/Internet-Exposed-Device)**
     
 ### 🛡️ Vulnerability Management
-  - **[Qualys for Vulnerability Management](https://github.com/Hasnake84/Qualys-Vulnerability-Management/tree/main)**
+  - **[Qualys Cloud Sensor Agent and Scanner Applliance Deployment and Scan reports](https://github.com/Hasnake84/Qualys-VMDR)**
   - **[10 + STIGs Implementation and Remediations](https://github.com/Hasnake84/Programmatic-Vulnerability-Remediations)**
   - **[Tenable Nessus on Metasploitable](https://github.com/Hasnake84/Tenable-Nessus-Metasploitable/tree/main)**
   - **[Vulnerability Management with OpenVAS](https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project)**
