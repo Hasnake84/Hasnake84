@@ -28,7 +28,7 @@
   - **[Internet Exposed Device](https://github.com/Hasnake84/Internet-Exposed-Device)**
     
 ### Vulnerability Management
-  - **[Qualys for Vulnerability Management](https://github.com/Hasnake84/Qualys-Vulnerability-Management-Detection-Response)**
+  - **[Qualys for Vulnerability Management](https://github.com/Hasnake84/Qualys-Vulnerability-Management/tree/main)**
 ### 🟣 Purple Team:
   - **[Tenable Nessus with Metasploitable](https://github.com/Hasnake84/Tenable-Nessus-Metasploitable)**
   - **[Burp-suite web application security testing](https://github.com/Hasnake84/Burp-Suite)**
