@@ -15,7 +15,7 @@
   - **[Configuring Active Directory within Azure VM](https://github.com/Hasnake84/Configuring-Active-Directory-within-Azure-VMs)**
   - **[Sysmon installation and config](https://github.com/Hasnake84/Sysmon-Installation-with-Sysmon-config-file)**
   - **[Qualys Cloud Sensor Agent and Scanner Applliance Deployment and Scan reports](https://github.com/Hasnake84/Qualys-VMDR)**
-  - **[Vulnerability Management with OpenVAS](https://github.com/Hasnake84/OpenVAS-Vulnerability-Management-project)**
+  - **[Azure and Elasticsearch Integration](https://github.com/Hasnake84/Azure-ElasticSearch-Integration)**
   -  **[osTicket Installation-Ticket lifecycle](https://github.com/Hasnake84/osTicket-installation/tree/main)**
 
 ### 🔍 Incident Response: Microsoft Sentinel and Defener for Endpoint
